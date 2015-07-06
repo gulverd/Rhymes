@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image:url('freeway_hd.jpg');
+}
+.main{
+	width: 826px;
+	display: table;
+	margin: auto;
+}
+.header{
+	width: 826px;
+	display: table;
+	float: left;
+	background-color: white;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.logo_wrapper{
+	display: table;
+	width: 100%;
+	float: left;
+}
+.logo_wrapper a{
+	text-decoration: none;
+	color:black;
+	font-size:40px;
+}
+.text_wrapper{
+	display: table;
+	width: 820px;
+	color:black;
+	font-size: 14px;
+	float: left;
+	margin-left: 10px;
+}
+.counter_wrapper{
+	margin-top: 10px;
+	margin-left: 5px;
+	height: 30px;
+	float: left;
+	font-size: 23px;
+}
+
+.add_word_button_wrapper{
+	margin-top: 5px;
+	float: left;
+	width: 100%;
+	height: 30px;
+	display: table;
+	text-align:right;
+	}
+.add_word_button_wrapper a{
+	font-size: 20px;
+	color: black;
+	margin-right: 20;
+}
+.form{
+	margin-top:100px;
+	float:left;
+}
+.search_wrapper{
+	width: 600px;
+	height: 40px;
+	background-color: #ffffff;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	border:3px solid gray;
+	border-radius:10px;
+	float: left;
+}
+#search_input{
+	width: 600px;
+	height: 40px;
+	border-radius:10px;
+	border: 0;
+	color:black;
+	font-size:20px;
+	float: left;
+}
+.submit_wrapper{
+	width: 200px;
+	height: 40px;
+	float: left;
+	border-radius:10px;
+	border:3px solid gray;
+	margin-left: 10px;
+	background-color: white;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+}
+#submit{
+	width: 200px;
+	height: 40px;
+	border: 0;
+	color: black;
+	background-color: white;
+	font-size:20px;
+	border-radius: 10px;
+}
+.output{
+	margin-top: 30px;
+	width: 100%;
+	display: table;
+	border:1px solid gray;
+	background-color: white;
+	color:black;
+	font-size: 20px;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	float: left;
+}
+.output p{
+}
+#pp{
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 100%;
+	display: table;
+	color:black;
+	font-size: 15px;
+}
+.input_word{
+	width: 500px;
+	height: 40px;
+	float:left;
+	margin: 10px;
+	background-color: white;
+	opacity: 0.9;
+	border: 1px solid gray;
+	border-radius: 10px;
+	filter:alpha(opacity=90);
+	display: table;
+}
+#input_word_1{
+	color:black;
+	font-size: 20px;
+	border: 0;
+	border-radius: 10px;
+	width: 500px;
+	height: 40px;
+}
+#input_word{
+	color:black;
+	font-size: 20px;
+	border: 0;
+	border-radius: 10px;
+	width: 500px;
+	height: 40px;
+}
+.input_submit{
+	width: 500px;
+	height: 40px;
+	font-size: 15px;
+	margin: 10px;
+	background-color: white;
+	opacity: 0.9;
+	border: 1px solid gray;
+	border-radius: 10px;
+	filter:alpha(opacity=90);
+	float: left;
+}
+#input_submit{
+	color:black;
+	font-size: 20px;
+	border: 0;
+	border-radius: 10px;
+	width: 500px;
+	height: 40px;
+}
+.add_wrapper{
+	display: table;
+	float: left;
+	margin-left: 130px;
+}
+.footer_wrapper{
+	width:800px;
+	margin-top: 20px;
+	float: left;
+	display: table;
+}
+.counter_wrapper{
+	margin-top:5px;
+	margin-bottom: 5px;
+	float: left;
+	margin-left: 390px;
+}
+.func{
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: white;
+	opacity: 0.9;
+	border: 1px solid gray;
+	border-radius: 10px;
+	filter:alpha(opacity=90);
+}
+.func_descr{
+	width: 100%;
+	display: table;
+	font-size: 15px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 2px;
+	height: 20px;
+}
+.func_left{
+	width: 50%;
+	float: left;
+	font-size: 15px;
+	display: table;
+	text-align: center;
+}
+.func_left{
+	font-size: 15px;
+	width: 50%;
+	float: left;
+	display: table;
+	text-align: center;
+}
